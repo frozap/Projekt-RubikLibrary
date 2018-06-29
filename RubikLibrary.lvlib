@@ -17,4 +17,5 @@
 	<Item Name="ServoSmartTurn.vi" Type="VI" URL="../ServoSmartTurn.vi"/>
 	<Item Name="SingmasterAllMoves.ctl" Type="VI" URL="../SingmasterAllMoves.ctl"/>
 	<Item Name="SingmasterMoves.ctl" Type="VI" URL="../SingmasterMoves.ctl"/>
+	<Item Name="UIState.ctl" Type="VI" URL="../UIState.ctl"/>
 </Library>
