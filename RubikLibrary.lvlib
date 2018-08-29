@@ -12,9 +12,10 @@
 	<Item Name="OrientationState.ctl" Type="VI" URL="../OrientationState.ctl"/>
 	<Item Name="ReadMoveListFile.vi" Type="VI" URL="../ReadMoveListFile.vi"/>
 	<Item Name="RubikMoves.ctl" Type="VI" URL="../RubikMoves.ctl"/>
+	<Item Name="RubikOps.ctl" Type="VI" URL="../RubikOps.ctl"/>
 	<Item Name="ServoAbsAngleControl.ctl" Type="VI" URL="../ServoAbsAngleControl.ctl"/>
+	<Item Name="ServoCCWControl.ctl" Type="VI" URL="../ServoCCWControl.ctl"/>
 	<Item Name="ServoEnumControl.ctl" Type="VI" URL="../ServoEnumControl.ctl"/>
-	<Item Name="ServoRelAngleControl.ctl" Type="VI" URL="../ServoRelAngleControl.ctl"/>
 	<Item Name="ServoSmartTurn.vi" Type="VI" URL="../ServoSmartTurn.vi"/>
 	<Item Name="SingmasterAllMoves.ctl" Type="VI" URL="../SingmasterAllMoves.ctl"/>
 	<Item Name="SingmasterMoves.ctl" Type="VI" URL="../SingmasterMoves.ctl"/>
