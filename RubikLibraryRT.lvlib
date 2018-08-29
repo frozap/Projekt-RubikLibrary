@@ -4,7 +4,7 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">385908736</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
-	<Item Name="GripSmart.vi" Type="VI" URL="../../Projekt-RubikLibrary/GripSmart.vi"/>
-	<Item Name="ServoSmartTurn.vi" Type="VI" URL="../../Projekt-RubikLibrary/ServoSmartTurn.vi"/>
-	<Item Name="StartupWizard.vi" Type="VI" URL="../../Projekt-RubikLibrary/StartupWizard.vi"/>
+	<Item Name="GripSmart.vi" Type="VI" URL="../GripSmart.vi"/>
+	<Item Name="ServoSmartTurn.vi" Type="VI" URL="../ServoSmartTurn.vi"/>
+	<Item Name="StartupWizard.vi" Type="VI" URL="../StartupWizard.vi"/>
 </Library>
